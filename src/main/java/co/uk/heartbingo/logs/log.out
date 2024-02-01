@@ -1,0 +1,361 @@
+2024-01-29 23:01:410 INFO  HomePage :37 - Clicking on accept cookies button : [[ChromeDriver: chrome on windows (22c985c97f837ef1381ca5a4aeeea672)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-29 23:01:733 INFO  HomePage :41 - Home page title Play Online Bingo | Best UK Bingo Games Site | Heart Bingois visible
+2024-01-29 23:01:231 INFO  HomePage :70 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-29 23:01:390 INFO  HomePage :70 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-29 23:01:476 INFO  HomePage :70 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-29 23:01:627 INFO  HomePage :71 - Option ---Slingo1--- is not visible in navigation menu bar 
+2024-01-29 23:01:820 INFO  HomePage :70 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-29 23:01:79 INFO  HomePage :70 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-29 23:01:420 INFO  HomePage :37 - Clicking on accept cookies button : [[ChromeDriver: chrome on windows (058097fed0321e759fdf89851de70e1d)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-29 23:01:642 INFO  HomePage :41 - Home page title Play Online Bingo | Best UK Bingo Games Site | Heart Bingois visible
+2024-01-29 23:01:765 INFO  HomePage :46 - Login Link is displayed
+2024-01-29 23:01:76 INFO  HomePage :51 - Join Now Link is displayed
+2024-01-29 23:01:190 INFO  HomePage :56 - Search Button is displayed
+2024-01-29 23:01:328 INFO  HomePage :37 - Clicking on accept cookies button : [[ChromeDriver: chrome on windows (6a3c16860784b70c7b4bb7dd3870f621)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-29 23:01:522 INFO  HomePage :41 - Home page title Play Online Bingo | Best UK Bingo Games Site | Heart Bingois visible
+2024-01-29 23:01:900 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-29 23:01:33 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-29 23:01:177 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-29 23:01:307 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-29 23:01:594 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-29 23:01:721 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-29 23:01:368 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (0502da3435d2963dcb3c134268cf92d5)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-29 23:01:864 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-29 23:01:900 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-29 23:01:409 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (56a785131e787451fe4695cda66a596d)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-29 23:01:723 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-29 23:01:769 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-29 23:01:155 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-29 23:01:252 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-29 23:01:134 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (e94cd2be253aefdfe60b4a9b894155d1)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-29 23:01:326 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-29 23:01:697 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-29 23:01:843 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-29 23:01:214 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-29 23:01:912 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-29 23:01:499 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-29 23:01:746 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 09:01:574 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[RemoteWebDriver: chrome on linux (294526ba124b1b5d4543053e77f20573)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 09:01:643 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 09:01:728 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 09:01:973 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 09:01:188 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 09:01:989 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[RemoteWebDriver: chrome on linux (5e88c2e0a0c656615413d7d7d820140d)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 09:01:31 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 09:01:305 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 09:01:506 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 09:01:673 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 09:01:932 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 09:01:372 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 09:01:703 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 10:01:883 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[RemoteWebDriver: chrome on linux (2f9c0a2b9c45505dbfb8295c741036b3)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 10:01:933 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 10:01:33 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 10:01:229 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 10:01:382 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 10:01:698 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[RemoteWebDriver: chrome on linux (c7afde50ad7e17353b2b724748c7daec)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 10:01:731 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 10:01:54 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 10:01:286 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 10:01:497 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 10:01:841 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 10:01:464 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 10:01:815 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 10:01:951 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[RemoteWebDriver: chrome on linux (58e2987bd513b43c0d324d3e7e70931c)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 10:01:40 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 10:01:219 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 10:01:605 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 10:01:71 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 10:01:367 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[RemoteWebDriver: chrome on linux (5e911859033c077a289c7df8a39eb428)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 10:01:427 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 10:01:811 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 10:01:964 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 10:01:105 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 10:01:261 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 10:01:470 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 10:01:679 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 10:01:913 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[RemoteWebDriver: chrome on linux (23f66bead793e433e7be1cb24ffac877)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 10:01:995 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 10:01:92 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 10:01:951 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 10:01:377 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 10:01:701 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[RemoteWebDriver: chrome on linux (20df00844b43bf39295c0b3c9e284a6b)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 10:01:785 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 10:01:420 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 10:01:952 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 10:01:190 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 10:01:391 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 10:01:675 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 10:01:24 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 10:01:409 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (8aa877deadb9625985cd08fbb99887d2)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 10:01:431 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 10:01:456 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 10:01:606 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 10:01:664 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 10:01:809 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (31f7fa1d13e750d87def1e2c12bf78b7)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 10:01:826 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 10:01:129 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 10:01:302 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 10:01:400 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 10:01:490 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 10:01:639 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 10:01:760 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 11:01:860 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (0a6ba86bd638fd3f8aebef9801bdc61f)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:973 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:30 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:275 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:505 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:753 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (1fca2ea456948fe78c81c7e09aefdc8c)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:793 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:23 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 11:01:149 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 11:01:569 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 11:01:726 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 11:01:897 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 11:01:120 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 11:01:668 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (fcc9b3e27163f6ddac6a1afdf17338b1)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:697 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:717 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:823 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:05 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:708 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (87f6ba011604e19d45011650bad561cf)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:77 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:158 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:766 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:194 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:952 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (64fb6e1b235b19899fa6fb9d01641a1a)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:976 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:236 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 11:01:335 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 11:01:583 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 11:01:750 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 11:01:957 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 11:01:224 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 11:01:370 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (ecfb64cb2e28b6ae4623833ecab8f21c)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:394 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:419 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:712 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:902 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:557 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (ed237d7f53c4aa3923901546fc400147)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:587 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:611 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:776 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:838 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:345 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (4dea8526becb87321e1655d49c843002)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:405 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:933 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 11:01:424 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 11:01:678 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 11:01:73 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 11:01:256 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 11:01:388 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 11:01:452 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (021a300b8a168068fb8901ee055c7614)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:536 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:560 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:787 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:916 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:218 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (bda0c6fd3fae038abd9546f4e0f58f42)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:240 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:270 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:475 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:557 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:918 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (fb78c236d9382545cd920126877b8dc8)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:939 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:288 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 11:01:367 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 11:01:516 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 11:01:651 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 11:01:769 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 11:01:939 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 11:01:781 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (c18ce1121f47bfa53639dbfa324df23d)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:876 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:33 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:531 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:844 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:491 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (b8e9ea17b9c6dcd58fd392bccb40b054)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:558 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:585 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:888 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:87 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:762 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (f445df74efa79790a865c423d00355d7)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:121 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:735 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 11:01:831 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 11:01:927 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 11:01:50 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 11:01:161 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 11:01:280 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 11:01:778 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (7afbafd7eff59c2b02e8ea0bafccfce8)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:842 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:866 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:439 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:490 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:782 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (37ce750f1e8686ab8f8188a2ab4d98cf)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:801 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:818 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:949 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:25 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:965 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (29d693f98768cb8250224fde36d43176)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:990 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:178 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 11:01:247 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 11:01:414 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 11:01:518 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 11:01:636 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 11:01:778 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 11:01:11 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (c59fb22ebbf6303e32d0b73edefd3971)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:202 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:261 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:609 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:699 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:944 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (41fcc8b6952cc9fb5c04222ce758effd)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:293 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:629 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 11:01:710 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 11:01:781 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 11:01:882 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 11:01:61 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 11:01:241 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 11:01:478 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (1f5706b8e3d0d08df14d27bc4d5cf4e8)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:713 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:841 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:988 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:177 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:305 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (64638374885075126caf20f4f29a5d07)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:566 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:631 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:909 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:985 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-01-30 11:01:227 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (3b582470dddade1f31f20469840ea5d1)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:267 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:777 INFO  HomePage :69 - Option ---Bingo--- is visible in navigation menu bar 
+2024-01-30 11:01:855 INFO  HomePage :69 - Option ---Slots--- is visible in navigation menu bar 
+2024-01-30 11:01:975 INFO  HomePage :69 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-01-30 11:01:79 INFO  HomePage :70 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-01-30 11:01:202 INFO  HomePage :69 - Option ---Slingo--- is visible in navigation menu bar 
+2024-01-30 11:01:343 INFO  HomePage :69 - Option ---Promos--- is visible in navigation menu bar 
+2024-01-30 11:01:14 INFO  HomePage :37 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (771065fbac8a06d59259730bd45aadec)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-01-30 11:01:263 INFO  HomePage :41 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-01-30 11:01:296 INFO  HomePage :46 - ---Login Link--- is displayed
+2024-01-30 11:01:543 INFO  HomePage :51 - ---Join Now--- Link is displayed
+2024-01-30 11:01:632 INFO  HomePage :56 - ---Search Button--- is displayed
+2024-02-01 09:02:446 INFO  HomePage :56 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (d069a2761233a33b90b8fff9f1c2546d)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:772 INFO  HomePage :60 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:913 INFO  HomePage :65 - ---Login Link--- is displayed
+2024-02-01 09:02:160 INFO  HomePage :70 - ---Join Now--- Link is displayed
+2024-02-01 09:02:259 INFO  HomePage :75 - ---Search Button--- is displayed
+2024-02-01 09:02:235 INFO  HomePage :56 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (5e9999c1e2c0a1b54ccbbb71084d0cfc)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:474 INFO  HomePage :60 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:974 INFO  HomePage :88 - Option ---Bingo--- is visible in navigation menu bar 
+2024-02-01 09:02:75 INFO  HomePage :88 - Option ---Slots--- is visible in navigation menu bar 
+2024-02-01 09:02:226 INFO  HomePage :88 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-02-01 09:02:431 INFO  HomePage :89 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-02-01 09:02:607 INFO  HomePage :88 - Option ---Slingo--- is visible in navigation menu bar 
+2024-02-01 09:02:774 INFO  HomePage :88 - Option ---Promos--- is visible in navigation menu bar 
+2024-02-01 09:02:750 INFO  HomePage :56 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (ae3c2200e57ec5a65257475a7cc98361)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:23 INFO  HomePage :60 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:135 INFO  HomePage :94 - ---Logging in--- 
+2024-02-01 09:02:508 INFO  HomePage :56 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (00f64ba2bc5e393d320b706ea566aa5c)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:565 INFO  HomePage :60 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:806 INFO  HomePage :65 - ---Login Link--- is displayed
+2024-02-01 09:02:153 INFO  HomePage :70 - ---Join Now--- Link is displayed
+2024-02-01 09:02:258 INFO  HomePage :75 - ---Search Button--- is displayed
+2024-02-01 09:02:67 INFO  HomePage :56 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (b8d13756567bce207b3d00621f20002b)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:120 INFO  HomePage :60 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:713 INFO  HomePage :88 - Option ---Bingo--- is visible in navigation menu bar 
+2024-02-01 09:02:900 INFO  HomePage :88 - Option ---Slots--- is visible in navigation menu bar 
+2024-02-01 09:02:47 INFO  HomePage :88 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-02-01 09:02:249 INFO  HomePage :89 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-02-01 09:02:446 INFO  HomePage :88 - Option ---Slingo--- is visible in navigation menu bar 
+2024-02-01 09:02:627 INFO  HomePage :88 - Option ---Promos--- is visible in navigation menu bar 
+2024-02-01 09:02:539 INFO  HomePage :56 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (defe44f91f6f2dd6452bac67ab337031)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:574 INFO  HomePage :60 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:829 INFO  HomePage :94 - ---Logging in--- 
+2024-02-01 09:02:32 INFO  HomePage :53 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (e45b77d61b64ebc8eafbc1621d8d25e2)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:204 INFO  HomePage :57 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:386 INFO  HomePage :62 - ---Login Link--- is displayed
+2024-02-01 09:02:724 INFO  HomePage :67 - ---Join Now--- Link is displayed
+2024-02-01 09:02:828 INFO  HomePage :72 - ---Search Button--- is displayed
+2024-02-01 09:02:896 INFO  HomePage :53 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (887631e6b2b1ae448ec6501b1112471e)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:957 INFO  HomePage :57 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:510 INFO  HomePage :85 - Option ---Bingo--- is visible in navigation menu bar 
+2024-02-01 09:02:702 INFO  HomePage :85 - Option ---Slots--- is visible in navigation menu bar 
+2024-02-01 09:02:868 INFO  HomePage :85 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-02-01 09:02:67 INFO  HomePage :86 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-02-01 09:02:268 INFO  HomePage :85 - Option ---Slingo--- is visible in navigation menu bar 
+2024-02-01 09:02:439 INFO  HomePage :85 - Option ---Promos--- is visible in navigation menu bar 
+2024-02-01 09:02:804 INFO  HomePage :53 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (58d58bc5a03339c35bf8eaf6037409d1)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:910 INFO  HomePage :57 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:986 INFO  HomePage :91 - ---Logging in--- 
+2024-02-01 09:02:145 INFO  HomePage :57 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (7a8cd4d3a4bbf304ed3a94e616575929)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:185 INFO  HomePage :61 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:312 INFO  HomePage :66 - ---Login Link--- is displayed
+2024-02-01 09:02:713 INFO  HomePage :71 - ---Join Now--- Link is displayed
+2024-02-01 09:02:920 INFO  HomePage :76 - ---Search Button--- is displayed
+2024-02-01 09:02:467 INFO  HomePage :57 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (734b1cbf0a35af5cdfab732195e8f6bd)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:745 INFO  HomePage :61 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:111 INFO  HomePage :89 - Option ---Bingo--- is visible in navigation menu bar 
+2024-02-01 09:02:224 INFO  HomePage :89 - Option ---Slots--- is visible in navigation menu bar 
+2024-02-01 09:02:376 INFO  HomePage :89 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-02-01 09:02:530 INFO  HomePage :90 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-02-01 09:02:756 INFO  HomePage :89 - Option ---Slingo--- is visible in navigation menu bar 
+2024-02-01 09:02:957 INFO  HomePage :89 - Option ---Promos--- is visible in navigation menu bar 
+2024-02-01 09:02:975 INFO  HomePage :57 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (34b8d5ecda149923a9937a3bdd82e550)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:993 INFO  HomePage :61 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:13 INFO  HomePage :95 - ---Logging in--- 
+2024-02-01 09:02:161 INFO  HomePage :60 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (7c3a859f6d4f1594410bbff74a9affff)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:440 INFO  HomePage :64 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:733 INFO  HomePage :69 - ---Login Link--- is displayed
+2024-02-01 09:02:249 INFO  HomePage :74 - ---Join Now--- Link is displayed
+2024-02-01 09:02:375 INFO  HomePage :79 - ---Search Button--- is displayed
+2024-02-01 09:02:737 INFO  HomePage :60 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (60ca7c1f5c232e354e6b8bd76eb711b1)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 09:02:374 INFO  HomePage :64 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 09:02:366 INFO  HomePage :92 - Option ---Bingo--- is visible in navigation menu bar 
+2024-02-01 09:02:483 INFO  HomePage :92 - Option ---Slots--- is visible in navigation menu bar 
+2024-02-01 09:02:664 INFO  HomePage :92 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-02-01 09:02:834 INFO  HomePage :93 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-02-01 09:02:99 INFO  HomePage :92 - Option ---Slingo--- is visible in navigation menu bar 
+2024-02-01 09:02:282 INFO  HomePage :92 - Option ---Promos--- is visible in navigation menu bar 
+2024-02-01 10:02:387 INFO  HomePage :60 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (e36e79b869567f3b7052ba14e480d7e2)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 10:02:693 INFO  HomePage :64 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 10:02:730 INFO  HomePage :98 - ---Logging in--- 
+2024-02-01 10:02:467 INFO  HomePage :106 - ---Logged in--- 
+2024-02-01 16:02:87 INFO  HomePage :60 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (9e9b0090296cc86d31945b57cececfc4)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 16:02:308 INFO  HomePage :64 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 16:02:392 INFO  HomePage :69 - ---Login Link--- is displayed
+2024-02-01 16:02:687 INFO  HomePage :74 - ---Join Now--- Link is displayed
+2024-02-01 16:02:782 INFO  HomePage :79 - ---Search Button--- is displayed
+2024-02-01 16:02:617 INFO  HomePage :60 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (2df142eb9773f68fb6ca9c219e0fbe6d)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 16:02:888 INFO  HomePage :64 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 16:02:206 INFO  HomePage :92 - Option ---Bingo--- is visible in navigation menu bar 
+2024-02-01 16:02:347 INFO  HomePage :92 - Option ---Slots--- is visible in navigation menu bar 
+2024-02-01 16:02:485 INFO  HomePage :92 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-02-01 16:02:637 INFO  HomePage :93 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-02-01 16:02:819 INFO  HomePage :92 - Option ---Slingo--- is visible in navigation menu bar 
+2024-02-01 16:02:18 INFO  HomePage :92 - Option ---Promos--- is visible in navigation menu bar 
+2024-02-01 16:02:644 INFO  HomePage :60 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (9382303967e0bf0445f6739b5c31e12f)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 16:02:907 INFO  HomePage :64 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 16:02:954 INFO  HomePage :98 - ---Logging in--- 
+2024-02-01 16:02:534 INFO  HomePage :106 - ---Logged in--- 
+2024-02-01 16:02:32 INFO  HomePage :60 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (7f6db4729163ef98b00d0ffaf9ef0930)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 16:02:210 INFO  HomePage :64 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 16:02:249 INFO  HomePage :69 - ---Login Link--- is displayed
+2024-02-01 16:02:386 INFO  HomePage :74 - ---Join Now--- Link is displayed
+2024-02-01 16:02:507 INFO  HomePage :79 - ---Search Button--- is displayed
+2024-02-01 19:02:585 INFO  HomePage :60 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (8126f57d1da4c5b6838ad6fb1787fdc2)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 19:02:673 INFO  HomePage :64 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 19:02:790 INFO  HomePage :69 - ---Login Link--- is displayed
+2024-02-01 19:02:37 INFO  HomePage :74 - ---Join Now--- Link is displayed
+2024-02-01 19:02:112 INFO  HomePage :79 - ---Search Button--- is displayed
+2024-02-01 19:02:484 INFO  HomePage :60 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (a32e1f2790d80fc6316edbb7a71e14fa)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 19:02:525 INFO  HomePage :64 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 19:02:24 INFO  HomePage :92 - Option ---Bingo--- is visible in navigation menu bar 
+2024-02-01 19:02:128 INFO  HomePage :92 - Option ---Slots--- is visible in navigation menu bar 
+2024-02-01 19:02:229 INFO  HomePage :92 - Option ---Live Casino--- is visible in navigation menu bar 
+2024-02-01 19:02:331 INFO  HomePage :93 - Option ---Slingo1--- is NOT visible in navigation menu bar 
+2024-02-01 19:02:431 INFO  HomePage :92 - Option ---Slingo--- is visible in navigation menu bar 
+2024-02-01 19:02:542 INFO  HomePage :92 - Option ---Promos--- is visible in navigation menu bar 
+2024-02-01 19:02:396 INFO  HomePage :60 - Clicking on ---accept cookies--- button : [[ChromeDriver: chrome on windows (5ef1354e4e600e813e28f3c485618990)] -> xpath: //button[@id='onetrust-accept-btn-handler']]
+2024-02-01 19:02:465 INFO  HomePage :64 - Home page title ---Play Online Bingo | Best UK Bingo Games Site | Heart Bingo--- is visible
+2024-02-01 19:02:493 INFO  HomePage :98 - ---Logging in--- 
+2024-02-01 19:02:190 INFO  HomePage :106 - ---Logged in--- 
